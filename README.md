@@ -14,8 +14,6 @@ This repository contains solutions to the SQL and scripting challenges. The task
   - [Installation Script](#installation-script)
   - [Uninstallation Script](#uninstallation-script)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## System Requirements
 
